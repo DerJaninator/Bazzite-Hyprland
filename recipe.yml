@@ -1,0 +1,9 @@
+name: bazzite-hyperland
+description: "Fancy Hyprland Desktop for Bazzite 3.5 (AMD + Catppuccin Mocha + Firefox)"
+base-image: ghcr.io/ublue-os/bazzite:stable
+image-version: latest
+
+modules:
+  - from-file: modules/hyprland.yml
+  - from-file: modules/catppuccin.yml
+  - from-file: modules/configs.yml
