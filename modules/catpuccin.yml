@@ -1,0 +1,4 @@
+type: files
+files:
+  - source: configs/catppuccin
+    destination: /usr/share/themes/Catppuccin-Mocha
