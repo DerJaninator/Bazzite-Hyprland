@@ -1,0 +1,14 @@
+type: files
+files:
+  - source: configs/hypr
+    destination: /etc/skel/.config/hypr
+  - source: configs/waybar
+    destination: /etc/skel/.config/waybar
+  - source: configs/wofi
+    destination: /etc/skel/.config/wofi
+  - source: configs/kitty
+    destination: /etc/skel/.config/kitty
+  - source: configs/swaync
+    destination: /etc/skel/.config/swaync
+  - source: configs/hyprpaper
+    destination: /etc/skel/.config/hyprpaper
