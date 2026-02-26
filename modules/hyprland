@@ -1,0 +1,14 @@
+type: rpm-ostree
+install:
+  - hyprland
+  - waybar
+  - wofi
+  - hyprpaper
+  - kitty
+  - thunar
+  - swaync
+  - cliphist
+  - hyprlock
+  - hypridle
+  - xdg-desktop-portal-hyprland
+  - xdg-desktop-portal-gtk
